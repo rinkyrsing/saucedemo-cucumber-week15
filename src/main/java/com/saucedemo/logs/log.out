@@ -1,0 +1,208 @@
+2022-05-18 23:05:413 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:495 INFO  HomePage :35 - Enter user name : 
+2022-05-18 23:05:681 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (b7e7a269441824a6fddb67598872de73)] -> xpath: //input[@id='password']]
+2022-05-18 23:05:884 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:54 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:729 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:860 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (76d478dbbc93a6d3396262c306c92d44)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:46 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:759 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:728 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:861 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (9612a03a01a5055bbb2fb32b0c196bef)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:28 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:395 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:190 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:306 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (e21bfa223c1e5d27c6fbb0de158e0117)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:456 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:417 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:94 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:202 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (c3569a0505abe89909856fe1d224c3e9)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:335 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:982 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:210 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:326 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (6573a92b0a3db1082ea562ab8f1d438d)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:466 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:855 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:778 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:891 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (337aa3308574a4ede00906bba856158d)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:02 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:479 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:295 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:418 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (0f96142162c3c50d6f14de5bc16c670d)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:552 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:199 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:895 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:29 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (53fa25560849017fb848f08612b3fa93)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:140 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:246 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:203 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:315 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (d8492b64367aadd2cdb542750bad1111)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:429 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:96 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:731 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:903 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (a6a5adbb359d9554efc1552a2324f58e)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:986 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:158 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:30 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:137 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (e2f03ced58d2ccabe3d5e699422a747b)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:278 INFO  HomePage :43 - Click on login button : 
+2022-05-19 01:05:221 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 01:05:75 INFO  HomePage :35 - Enter user name : 
+2022-05-19 01:05:212 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (2ccb0ad743f2ba9cb3d8bebb46bdd045)] -> xpath: //input[@id='password']]
+2022-05-19 01:05:314 INFO  HomePage :43 - Click on login button : 
+2022-05-19 02:05:109 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 02:05:293 INFO  HomePage :35 - Enter user name : 
+2022-05-19 02:05:436 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (51999b80e637d453aa3a05fb076fcb6e)] -> xpath: //input[@id='password']]
+2022-05-19 02:05:585 INFO  HomePage :43 - Click on login button : 
+2022-05-19 02:05:86 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 02:05:953 INFO  HomePage :35 - Enter user name : 
+2022-05-19 02:05:92 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (99a5f3be28a1639c93f0eff3a1ce27b3)] -> xpath: //input[@id='password']]
+2022-05-19 02:05:786 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 02:05:790 INFO  HomePage :35 - Enter user name : 
+2022-05-19 02:05:915 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (a648e038ea09d38cadd3a0c4a2a115d4)] -> xpath: //input[@id='password']]
+2022-05-19 02:05:493 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 02:05:540 INFO  HomePage :35 - Enter user name : 
+2022-05-19 02:05:684 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (a014248eed5e783ccf54816a357978d9)] -> xpath: //input[@id='password']]
+2022-05-19 02:05:131 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 02:05:154 INFO  HomePage :35 - Enter user name : 
+2022-05-19 02:05:293 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (e522f6fbe0130fa14b56f82c33033dfc)] -> xpath: //input[@id='password']]
+2022-05-19 09:05:536 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 09:05:479 INFO  HomePage :35 - Enter user name : 
+2022-05-19 09:05:676 INFO  HomePage :39 - Enter user password : [[ChromeDriver: chrome on WINDOWS (efc333ab7c23c0887009baa9b106cd29)] -> xpath: //input[@id='password']]
+2022-05-19 09:05:466 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 09:05:181 INFO  HomePage :34 - Enter user name : 
+2022-05-19 09:05:419 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (793f40dbf11432d0d618a7fb57438a5b)] -> xpath: //input[@id='password']]
+2022-05-19 09:05:633 INFO  HomePage :43 - Click on login button : 
+2022-05-19 09:05:945 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 09:05:129 INFO  HomePage :34 - Enter user name : 
+2022-05-19 09:05:327 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (816915c295d33c999d4c087e11838a2d)] -> xpath: //input[@id='password']]
+2022-05-19 09:05:635 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:401 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:998 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:123 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (bf5778f8c218ce4850c64b6238123819)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:231 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:610 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:686 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:838 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (95ed12e01ba259dd226c77697268cab5)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:972 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:228 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:462 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:573 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (106d5a6fd6ab2b8868876bd8acb0dd97)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:690 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:926 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:620 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:760 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (c3a68d0c7f818b6a10bf7d81775c37b9)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:895 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:127 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 14:05:866 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:940 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:55 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (7b8fce4f783cc313cb5243b625fd8911)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:168 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:359 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 14:05:873 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:675 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:859 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (4488cdddfaeccd2b278610b5f8f406fb)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:34 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:881 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:804 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:952 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (9d1a5a5d01e78519be965ac7a4d65670)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:84 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:242 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 14:05:358 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:366 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:471 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (c384015af6fbe7886d8bc62b1ab40a3e)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:582 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:75 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:874 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:58 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (7afb22f724b7a741e530a56768e6d8fe)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:210 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:442 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 14:05:959 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:982 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:98 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (3af5b389d87c9f42f566aa7612e1a60d)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:195 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:353 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 14:05:279 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:359 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:456 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (0d77e5d3e9c58dd131c82b8608e42e20)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:545 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:707 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 14:05:793 INFO  InventoryPage :44 - Add to cart select 'cheapest and costliest product : 
+2022-05-19 14:05:916 INFO  InventoryPage :50 - Click on add cart button :2
+2022-05-19 14:05:411 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 14:05:640 INFO  HomePage :34 - Enter user name : 
+2022-05-19 14:05:763 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (e67ef3370beab742d9b3443dfd041c5e)] -> xpath: //input[@id='password']]
+2022-05-19 14:05:902 INFO  HomePage :43 - Click on login button : 
+2022-05-19 14:05:83 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 14:05:194 INFO  InventoryPage :44 - Add to cart select 'cheapest and costliest product : 
+2022-05-19 14:05:362 INFO  InventoryPage :50 - Click on add cart button :2
+2022-05-19 14:05:437 INFO  CheckOutPage :28 - Clink on 'Checkout' button : [[ChromeDriver: chrome on WINDOWS (e67ef3370beab742d9b3443dfd041c5e)] -> id: checkout]
+2022-05-19 15:05:493 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:238 INFO  HomePage :34 - Enter user name : 
+2022-05-19 15:05:365 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (2fc9d64c28444d5a0df65f98b9d08cd2)] -> xpath: //input[@id='password']]
+2022-05-19 15:05:479 INFO  HomePage :43 - Click on login button : 
+2022-05-19 15:05:661 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 15:05:744 INFO  InventoryPage :44 - Add to cart select 'cheapest and costliest product : 
+2022-05-19 15:05:868 INFO  InventoryPage :50 - Click on add cart button :2
+2022-05-19 15:05:926 INFO  CheckOutPage :28 - Clink on 'Checkout' button : [[ChromeDriver: chrome on WINDOWS (2fc9d64c28444d5a0df65f98b9d08cd2)] -> id: checkout]
+2022-05-19 15:05:981 INFO  CheckOutStepPage :32 - Enter user first name : [[ChromeDriver: chrome on WINDOWS (2fc9d64c28444d5a0df65f98b9d08cd2)] -> id: first-name]
+2022-05-19 15:05:46 INFO  CheckOutStepPage :36 - Enter user last name : [[ChromeDriver: chrome on WINDOWS (2fc9d64c28444d5a0df65f98b9d08cd2)] -> id: last-name]
+2022-05-19 15:05:113 INFO  CheckOutStepPage :32 - Enter user first name : [[ChromeDriver: chrome on WINDOWS (2fc9d64c28444d5a0df65f98b9d08cd2)] -> id: first-name]
+2022-05-19 15:05:730 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:348 INFO  HomePage :34 - Enter user name : 
+2022-05-19 15:05:500 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (2b45284ae165ab5aab155778c47e1a5e)] -> xpath: //input[@id='password']]
+2022-05-19 15:05:615 INFO  HomePage :43 - Click on login button : 
+2022-05-19 15:05:825 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 15:05:928 INFO  InventoryPage :44 - Add to cart select 'cheapest and costliest product : 
+2022-05-19 15:05:90 INFO  InventoryPage :50 - Click on add cart button :2
+2022-05-19 15:05:185 INFO  CheckOutPage :28 - Clink on 'Checkout' button : [[ChromeDriver: chrome on WINDOWS (2b45284ae165ab5aab155778c47e1a5e)] -> id: checkout]
+2022-05-19 15:05:273 INFO  CheckOutStepPage :36 - Enter user first name : [[ChromeDriver: chrome on WINDOWS (2b45284ae165ab5aab155778c47e1a5e)] -> id: first-name]
+2022-05-19 15:05:373 INFO  CheckOutStepPage :40 - Enter user last name : [[ChromeDriver: chrome on WINDOWS (2b45284ae165ab5aab155778c47e1a5e)] -> id: last-name]
+2022-05-19 15:05:469 INFO  CheckOutStepPage :44 - Enter user first name : [[ChromeDriver: chrome on WINDOWS (2b45284ae165ab5aab155778c47e1a5e)] -> id: postal-code]
+2022-05-19 15:05:580 INFO  CheckOutStepPage :48 - Click on continue button : 
+2022-05-19 15:05:686 INFO  FinalPage :28 - Click on continue button : FINISH
+2022-05-19 15:05:776 INFO  ThankYouPage :26 - Verify 'Thank you text is displayed :THANK YOU FOR YOUR ORDER
+2022-05-19 15:05:871 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 15:05:439 INFO  HomePage :34 - Enter user name : 
+2022-05-19 15:05:568 INFO  HomePage :38 - Enter user password : [[ChromeDriver: chrome on WINDOWS (8e5593b88a2299a08cd4e0dbcab29c29)] -> xpath: //input[@id='password']]
+2022-05-19 15:05:672 INFO  HomePage :43 - Click on login button : 
+2022-05-19 15:05:855 INFO  InventoryPage :39 - Click on price sort list tab, and select 'high to low' price :Name (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 15:05:961 INFO  InventoryPage :44 - Add to cart select 'cheapest and costliest product : 
+2022-05-19 15:05:137 INFO  InventoryPage :50 - Click on add cart button :2
+2022-05-19 15:05:223 INFO  CheckOutPage :28 - Clink on 'Checkout' button : [[ChromeDriver: chrome on WINDOWS (8e5593b88a2299a08cd4e0dbcab29c29)] -> id: checkout]
+2022-05-19 15:05:305 INFO  CheckOutStepPage :36 - Enter user first name : [[ChromeDriver: chrome on WINDOWS (8e5593b88a2299a08cd4e0dbcab29c29)] -> id: first-name]
+2022-05-19 15:05:403 INFO  CheckOutStepPage :40 - Enter user last name : [[ChromeDriver: chrome on WINDOWS (8e5593b88a2299a08cd4e0dbcab29c29)] -> id: last-name]
+2022-05-19 15:05:514 INFO  CheckOutStepPage :44 - Enter user first name : [[ChromeDriver: chrome on WINDOWS (8e5593b88a2299a08cd4e0dbcab29c29)] -> id: postal-code]
+2022-05-19 15:05:628 INFO  CheckOutStepPage :48 - Click on continue button : 
+2022-05-19 15:05:746 INFO  FinalPage :28 - Click on continue button : FINISH
+2022-05-19 15:05:853 INFO  ThankYouPage :26 - Verify 'Thank you text is displayed :THANK YOU FOR YOUR ORDER
